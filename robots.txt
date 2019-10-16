@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eegucheato.securitycrap.com/sitemap.xml
